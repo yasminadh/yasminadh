@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **react**
 
-- 🌱 I’m currently learning **react**
+- 🌱 I’m currently learning **react and flutter**
 
 - 👯 I’m looking to collaborate on **react**
 
