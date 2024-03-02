@@ -4,7 +4,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yasminadh&theme=radical&show_icons=true)
 ## Full-Stack Developer, and Data Scientist !!
--  Hi 👋, I’m @Khalid benhadou Developer Full-Stack & Data Scientist
+-  Hi 👋, I’m @Yasmina Dahbi Developer Full-Stack & Data Scientist
 - 👀 I’m interested in :<br>
         ☕ Full-Stack <br>
           &nbsp; &nbsp;✔️ Tools : GIT | GITHUB <br>
