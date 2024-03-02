@@ -7,19 +7,27 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **react**
-
-- 🌱 I’m currently learning **react**
-
-- 👯 I’m looking to collaborate on **react**
-
-- 🤝 I’m looking for help with **AI**
-
-- 💬 Ask me about **html,css,javascript,php,react,laravel,python,sql**
-
-- 📫 How to reach me **yasminadahbi2107@gmail.com**
-
-- ⚡ Fun fact **I think am happy**
+-- 👀 I’m interested in :<br>
+        ☕ BackEnd <br>
+          &nbsp; &nbsp;✔️ php : laravel  <br>
+          &nbsp; &nbsp;✔️ Spring : MVC | BOOT | DATA/JPA | SECURITY | MICROSERVICES | CLOUD | RESTFULL  <br>
+          &nbsp; &nbsp;✔️ Tools :  GIT | GITHUB <br>
+          &nbsp; &nbsp;✔️ Devops : DOCKER | KUBERNETES | JENKINS <br> 
+          &nbsp; &nbsp;✔️ Design : UML | figma | photoshop <br>
+          &nbsp; &nbsp;✔️ Web Service : JSON | XML | YAML <br>
+          &nbsp; &nbsp;✔️ DateBases : MYSQL | MONGODB | Firebase<br>
+          
+        🤖 Artificial Intelligence <br>
+          &nbsp; &nbsp;✔️ DATA MINING <br>
+          &nbsp; &nbsp;✔️ MACHINE LEARNING <br>
+          &nbsp; &nbsp;✔️ DEEP LEARNING <br>
+          
+        
+- 🌱 I’m currently Ph.D. student in Computer Vision in AI field<br>
+- 📖 I’m currently learning everything 🤣 <br>
+- 👯 I’m looking to collaborate with other companies like freelance <br>
+- 🥅 2022 Goals: Learn more about dart, flutter, Spring Boot and Computer Vision  <br>
+- 📫 How to reach me : Email : yasminadahbi2107@gmail.com / Phone : +212 721 793 669 <br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
