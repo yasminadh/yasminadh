@@ -19,6 +19,8 @@
 
 - 📫 How to reach me **yasminadahbi2107@gmail.com**
 
+- ⚡ Fun fact **I think am happy**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
