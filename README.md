@@ -3,19 +3,17 @@
 # Hi there, I'm Yasmina👋 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yasminadh&theme=radical&show_icons=true)
-## Full-Stack Developer, and Data Scientist !!
--  Hi 👋, I’m @Yasmina Dahbi Developer Full-Stack & Data Scientist
+## Full-Stack Developer!
+-  Hi 👋, I’m @Yasmina Dahbi Developer Full-Stack 
 - 👀 I’m interested in :<br>
         ☕ Full-Stack <br>
           &nbsp; &nbsp;✔️ Tools : GIT | GITHUB <br>
           &nbsp; &nbsp;✔️ Devops : DOCKER | KUBERNETES | JENKINS <br>
           &nbsp; &nbsp;✔️ Front-end : REACT-JS | JAVASCRIPT  <br>
           &nbsp; &nbsp;✔️ Back-end : LARAVEL | PHP  <br> 
-          &nbsp; &nbsp;✔️ Design : UML | Design Patterns | PhotoShop | Figma <br>
+          &nbsp; &nbsp;✔️ Design : UML |canva| Figma <br>
           &nbsp; &nbsp;✔️ DateBases : MYSQL | MONGODB <br>
-        🤖 Artificial Intelligence <br>
-          &nbsp; &nbsp;✔️ MACHINE LEARNING <br>
-          &nbsp; &nbsp;✔️ DEEP LEARNING <br>
+        
         
 - 🌱 I’m currently studying  Full-stack web Developement  <br>
 - 📖 I’m currently learning everything 🤣 <br>
