@@ -18,7 +18,7 @@
 - 🌱 I’m currently studying  Full-stack web Developement  <br>
 - 📖 I’m currently learning everything 🤣 <br>
 - 👯 I’m looking to collaborate with other companies and adding crucial improvements
-- 🥅 2024 Goals: Learn more about Machine Learning,Cloud , and AI projects  <br>
+- 🥅 2024 Goals: Learn more about Mobile application , and AI projects  <br>
 - 📫 How to reach me : Email : yasminadahbi2107@gmail.com / Phone : +212 721 793 696 <br>
 
 ### 💻 Top Programming Languages
